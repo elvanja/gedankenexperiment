@@ -7,6 +7,8 @@
   * domain objects in all levels need to access persistence, see ConferenceRoomBookingContext#book
   * would like to delegate find_by_room_number to persistence, but don't know how
   * persistence is not implemented but it is still used in business objects (see ConferenceRoomBookingContext#book_me)
+
+  NOTE: WORK IN PROGRESS !!!
 =end
 
 # domain / business object
